@@ -20,6 +20,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdipto1&show_icons=true&locale=en&layout=compact" alt="kdipto1" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdipto1&show_icons=true&locale=en" alt="kdipto1" /></p>
+
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdipto1&" alt="kdipto1" /></p>
