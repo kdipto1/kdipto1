@@ -81,6 +81,8 @@ I try to take great care in the experience, architecture, and code quality of th
 </div>  
 <br>
 
+<img width="" src="https://activity-graph.herokuapp.com/graph?username=kdipto1&theme=dark&hide_border=true" alt="kdipto1" />
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kdipto1&theme=dark&hide_border=true)
 
 
