@@ -80,8 +80,10 @@ I try to take great care in the experience, architecture, and code quality of th
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kdipto1&&style=flat-square" align="center" />
-</div>  
+</div>
+  
 <br>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kdipto1&theme=dracula&hide_border=true)
 
 
