@@ -30,6 +30,9 @@ I try to take great care in the experience, architecture, and code quality of th
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kdipto1&label=Profile%20views&color=0e75b6&style=flat" alt="kdipto1" /> </p>
 
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
