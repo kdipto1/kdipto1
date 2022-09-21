@@ -59,7 +59,7 @@ I try to take great care in the experience, architecture, and code quality of th
 
 <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=kdipto1&" alt="kdipto1" /></div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kdipto1&label=Profile%20views&color=0e75b6&style=flat" alt="kdipto1" /> </p>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
 
