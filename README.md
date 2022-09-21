@@ -28,7 +28,6 @@ I try to take great care in the experience, architecture, and code quality of th
 
 </td><td valign="top" width="33%">
 
-
 ### Backend
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -39,7 +38,6 @@ I try to take great care in the experience, architecture, and code quality of th
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 </td></tr></table>  
-
 
 - 🌱 I’m currently learning **Typescript, Next JS**
 
@@ -67,14 +65,11 @@ I try to take great care in the experience, architecture, and code quality of th
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div> 
-
 <br>
-
 ## Stats📈 
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdipto1&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="#kdipto1" />  
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kdipto1&show_icons=true&theme=dark&hide_border=true" alt="kdipto1" /> 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kdipto1&theme=dark&hide_border=true" alt="kdipto1" /> </p> 
-  
 <br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kdipto1&&style=flat-square" align="center" />
