@@ -8,6 +8,7 @@ I try to take great care in the experience, architecture, and code quality of th
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
+
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
