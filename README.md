@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://photos.app.goo.gl/9SXT17MPiyxCGJBk8" align="center" style="width: 100%" />
+</div>  
 <h1 align="center">Hi 👋, I'm Dipto</h1>
 <h3 align="center">Web developer || Fronted Developer || MERN Developer</h3>
 <p align="center">I'm a passionate web developer. My passion for web developing lies with dreaming up ideas and making them come true with elegant interfaces.
