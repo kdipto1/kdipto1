@@ -19,9 +19,9 @@ I try to take great care in the experience, architecture, and code quality of th
 
 <br>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdipto1&show_icons=true&locale=en&layout=compact" alt="kdipto1" />
+<div><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdipto1&show_icons=true&locale=en&layout=compact" alt="kdipto1" />
 
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kdipto1&show_icons=true&locale=en" alt="kdipto1" />
+&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=kdipto1&show_icons=true&locale=en" alt="kdipto1" />
 
 <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=kdipto1&" alt="kdipto1" /></div>
 
