@@ -3,7 +3,7 @@
 <p align="center">I'm a passionate web developer. My passion for web developing lies with dreaming up ideas and making them come true with elegant interfaces.
 I try to take great care in the experience, architecture, and code quality of the things I build. Currently, I have skills on HTML5, CSS3, Javascript, React, Bootstrap, Tailwind CSS, Node Js, Express Js and MongoDB. I have a experience of working as a freelance graphic designer also.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kdipto1&label=Profile%20views&color=0e75b6&style=flat" alt="kdipto1" /> </p>
+
 
 
 - 🌱 I’m currently learning **Typescript, Next JS**
@@ -24,3 +24,4 @@ I try to take great care in the experience, architecture, and code quality of th
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kdipto1&show_icons=true&locale=en" alt="kdipto1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdipto1&" alt="kdipto1" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kdipto1&label=Profile%20views&color=0e75b6&style=flat" alt="kdipto1" /> </p>
