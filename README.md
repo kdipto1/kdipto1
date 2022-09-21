@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://photos.app.goo.gl/9SXT17MPiyxCGJBk8" align="center" style="width: 100%" />
+<img src="https://lh3.googleusercontent.com/pw/AL9nZEWihB5-xB4jFTb8LzC6B1l-EpXNStxU1Ptyg4Hr0dPaO_8eq7LvbTlTV-RjsmJ8BooqQBz7JEEqx3U1gFaeCMCfkdwy5yn35uENDVKBrw21xQPcFoY_oalgtjZEJTEMe2pwW1ovozWrRpV5zP_LloTT=w1169-h390-no" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Dipto</h1>
 <h3 align="center">Web developer || Fronted Developer || MERN Developer</h3>
