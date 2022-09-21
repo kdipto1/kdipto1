@@ -6,7 +6,7 @@
 <p align="center">I'm a passionate web developer. My passion for web developing lies with dreaming up ideas and making them come true with elegant interfaces.
 I try to take great care in the experience, architecture, and code quality of the things I build. Currently, I have skills on HTML5, CSS3, Javascript, React, Bootstrap, Tailwind CSS, Node Js, Express Js and MongoDB. I have a experience of working as a freelance graphic designer also.</p>
 
-## My Skill Set  
+##My Skill Set  
 <table><tr><td valign="top" width="33%">
 ###Frontend  
 <div align="center">  
