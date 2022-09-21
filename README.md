@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dipto</h1>
 <h3 align="center">Web developer || Fronted Developer || MERN Developer</h3>
+<p align="center">I'm a passionate web developer. My passion for web developing lies with dreaming up ideas and making them come true with elegant interfaces.
+
+I try to take great care in the experience, architecture, and code quality of the things I build. Currently, I have skills on HTML5, CSS3, Javascript, React, Bootstrap, Tailwind CSS, Node Js, Express Js and MongoDB. I have a experience of working as a freelance graphic designer also.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdipto1&label=Profile%20views&color=0e75b6&style=flat" alt="kdipto1" /> </p>
 
