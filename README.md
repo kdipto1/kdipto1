@@ -28,7 +28,6 @@ I try to take great care in the experience, architecture, and code quality of th
 </td><td valign="top" width="33%">
 
 
-
 ### Backend  
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -38,7 +37,7 @@ I try to take great care in the experience, architecture, and code quality of th
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
-
+</td></tr></table>  
 
 
 - 🌱 I’m currently learning **Typescript, Next JS**
