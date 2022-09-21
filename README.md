@@ -66,7 +66,9 @@ I try to take great care in the experience, architecture, and code quality of th
 </a>  
 </div> 
 <br>
+
 ## Stats📈 
+
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdipto1&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="#kdipto1" />  
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kdipto1&show_icons=true&theme=dark&hide_border=true" alt="kdipto1" /> 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kdipto1&theme=dark&hide_border=true" alt="kdipto1" /> </p> 
