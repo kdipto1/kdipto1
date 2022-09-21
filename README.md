@@ -72,15 +72,7 @@ I try to take great care in the experience, architecture, and code quality of th
 
 <br>
 
-<div align="float"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdipto1&show_icons=true&locale=en&layout=compact" alt="kdipto1" />
-
-&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=kdipto1&show_icons=true&locale=en" alt="kdipto1" />
-
-<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=kdipto1&" alt="kdipto1" /></div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kdipto1&&style=flat-square" align="center" />
-</div>
+## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdipto1&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#kdipto1" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kdipto1&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="kdipto1" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kdipto1&theme=highcontrast&hide_border=true" alt="kdipto1" /> </p> 
   
 <br>
 
