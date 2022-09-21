@@ -5,7 +5,6 @@ I try to take great care in the experience, architecture, and code quality of th
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdipto1&label=Profile%20views&color=0e75b6&style=flat" alt="kdipto1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdipto1" alt="kdipto1" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript, Next JS**
 
