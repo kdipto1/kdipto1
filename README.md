@@ -68,7 +68,10 @@ I try to take great care in the experience, architecture, and code quality of th
 </a>  
 </div> 
 
+<br>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br>
 
