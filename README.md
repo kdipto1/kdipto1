@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipto</h1>
-<h3 align="center">A passionate web developer . I love to learn, explore & experience new things.</h3>
+<h3 align="center">Web developer || Fronted Developer || MERN Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdipto1&label=Profile%20views&color=0e75b6&style=flat" alt="kdipto1" /> </p>
 
