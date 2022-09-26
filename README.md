@@ -41,7 +41,7 @@ I try to take great care in the experience, architecture, and code quality of th
 
 - 🌱 I’m currently learning **Typescript, Next JS**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Web Developmemt**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 ## Connect with me  
