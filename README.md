@@ -56,7 +56,7 @@ I try to take great care in the experience, architecture, and code quality of th
 </div>  
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kdipto1&theme=react-dark&hide_border=true)
+
 <!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kdipto1&theme=react-dark&hide_border=true) -->
 
 
