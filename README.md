@@ -57,6 +57,9 @@ I try to take great care in the experience, architecture, and code quality of th
 <br>
 
 
+<a href="https://app.daily.dev/kdipto"><img src="https://api.daily.dev/devcards/007e4fce9fe34741ba706a40c831fff5.png?r=ar3" width="400" alt="Dipto Karmaker's Dev Card"/></a>
+
+
 <!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kdipto1&theme=react-dark&hide_border=true) -->
 
 
