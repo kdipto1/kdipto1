@@ -52,7 +52,7 @@ I try to take great care in the experience, architecture, and code quality of th
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kdipto1&theme=dark&hide_border=true" alt="kdipto1" /> 
 <br>
 
-<a href="https://app.daily.dev/kdipto"><img src="https://api.daily.dev/devcards/007e4fce9fe34741ba706a40c831fff5.png?r=ar3" width="400" alt="Dipto Karmaker's Dev Card"/></a>
+<div align="center"><a href="https://app.daily.dev/kdipto"><img src="https://api.daily.dev/devcards/007e4fce9fe34741ba706a40c831fff5.png?r=ar3" width="400" alt="Dipto Karmaker's Dev Card"/></a></div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kdipto1&&style=flat-square" align="center" />
