@@ -1,10 +1,12 @@
 <div align="center">
 <img src="https://lh3.googleusercontent.com/pw/AL9nZEWihB5-xB4jFTb8LzC6B1l-EpXNStxU1Ptyg4Hr0dPaO_8eq7LvbTlTV-RjsmJ8BooqQBz7JEEqx3U1gFaeCMCfkdwy5yn35uENDVKBrw21xQPcFoY_oalgtjZEJTEMe2pwW1ovozWrRpV5zP_LloTT=w1169-h390-no" align="center" style="width: 100%" />
 </div>  
-<h1 align="center">Hi 👋, I'm Dipto</h1>
-<h3 align="center">Web developer || Fronted Developer || MERN Developer</h3>
-<p align="center">I'm a passionate web developer. My passion for web developing lies with dreaming up ideas and making them come true with elegant interfaces.
-I try to take great care in the experience, architecture, and code quality of the things I build. Currently, I have skills on HTML5, CSS3, Javascript, React, Bootstrap, Tailwind CSS, Node Js, Express Js and MongoDB. I have a experience of working as a freelance graphic designer also.</p>
+
+---
+
+# 👋 Hi there!
+My name is  **Dipto Karmaker**  and I'm a passionate web developer. My passion for web developing lies with dreaming up ideas and making them come true with elegant interfaces.
+I try to take great care in the experience, architecture, and code quality of the things I build. Currently, I have working experience on HTML5, CSS3, Javascript, Typescript, React, Next.js, Bootstrap, Tailwind CSS, Node Js, Express Js, MongoDB, Mongoose, PostgreSQL, Prisma.  I have an experience of working as a freelance graphic designer also.
 
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="33%">
@@ -29,7 +31,7 @@ I try to take great care in the experience, architecture, and code quality of th
 <!-- <h3 align="left">Connect with me:</h3> -->
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/dipto-karmaker-733271202" target="_blank">
+<a href="https://linkedin.com/in/dipto-karmaker/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/kdipto1" target="_blank">
@@ -38,9 +40,6 @@ I try to take great care in the experience, architecture, and code quality of th
 <a href="https://twitter.com/kdipto2" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/15694644/dipto-roy" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
 </div> 
 <br>
 
