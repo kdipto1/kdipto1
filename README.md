@@ -8,6 +8,10 @@
 My name is  **Dipto Karmaker**  and I'm a passionate web developer. My passion for web developing lies with dreaming up ideas and making them come true with elegant interfaces.
 I try to take great care in the experience, architecture, and code quality of the things I build. Currently, I have working experience on HTML5, CSS3, Javascript, Typescript, React, Next.js, Redux, Bootstrap, Tailwind CSS, Node Js, Express Js, MongoDB, Mongoose, PostgreSQL, Prisma.  I have an experience of working as a freelance graphic designer also.
 
+✨ Interested about cybersecurity and blockchain.
+
+✏️ Next to learn payment system, docker, aws, graphql and test driven development.
+
 ## Technologies, I have worked with  
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,next,nodejs,express,mongodb,postgresql,prisma,firebase,supabase,heroku,git,github,vscode,figma,netlify,postman,redux,stackoverflow)]([https://skillicons.dev](https://dipto-karmaker.vercel.app/))
 
