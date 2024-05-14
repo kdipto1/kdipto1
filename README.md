@@ -3,7 +3,6 @@
 
 </div>  
 
----
 
 # 👋 Hi there!
 My name is **Dipto Karmaker**. I am passionate about programming and scalable software development, that will be used by a large number of people. And it will have a good impact on their day-to-day life. I am curious about technology. 
