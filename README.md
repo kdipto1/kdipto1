@@ -5,12 +5,19 @@
 ---
 
 # 👋 Hi there!
-My name is  **Dipto Karmaker**  and I'm a passionate web developer. My passion for web developing lies with dreaming up ideas and making them come true with elegant interfaces.
-I try to take great care in the experience, architecture, and code quality of the things I build. Currently, I have working experience on HTML5, CSS3, Javascript, Typescript, React, Next.js, Redux, Bootstrap, Tailwind CSS, Node Js, Express Js, MongoDB, Mongoose, PostgreSQL, Prisma.  I have an experience of working as a freelance graphic designer also.
+I am passionate about programming and scalable software development, that will be used by a large number of people. And it will have a good impact on their day-to-day life. I am curious about technology. 
 
-✨ Interested about cybersecurity and blockchain.
+I also have an interest in outdoor sports like football and cricket. I love to travel and read. I like to always stay updated on what's going on around the world. So, I try to read the newspaper most of the time.
 
-✏️ Next to learn payment system, docker, aws, graphql and test driven development.
+Currently, I am looking for a full-stack developer position. I will share my current skills down here.
+
+Programming Languages: JavaScript, Typescript
+Front-end Technologies: HTML5, CSS3, SASS, Bootstrap, Tailwind CSS, React, Next.js
+Back-end Technologies: Node.js, Express.js
+Databases: MongoDB, PostgreSQL
+Tools and Libraries: Redux, Mongoose, Prisma, Ant Design, Material UI, TanStack Query
+Version Control: Git, GitHub
+Code Editor: VS code
 
 ## Technologies, I have worked with  
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,next,nodejs,express,mongodb,postgresql,prisma,firebase,supabase,heroku,git,github,vscode,figma,netlify,postman,redux,stackoverflow)]([https://skillicons.dev](https://dipto-karmaker.vercel.app/))
